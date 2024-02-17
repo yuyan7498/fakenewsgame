@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/fakenewsgame/static/css/main.3ee8f15d.css",
-    "main.js": "/fakenewsgame/static/js/main.9a6f7f2a.js",
+    "main.js": "/fakenewsgame/static/js/main.556e059a.js",
     "static/css/48.be3d267a.chunk.css": "/fakenewsgame/static/css/48.be3d267a.chunk.css",
-    "static/js/48.dc61ae96.chunk.js": "/fakenewsgame/static/js/48.dc61ae96.chunk.js",
+    "static/js/48.541ca340.chunk.js": "/fakenewsgame/static/js/48.541ca340.chunk.js",
     "static/js/504.3fbd6fdd.chunk.js": "/fakenewsgame/static/js/504.3fbd6fdd.chunk.js",
     "static/js/656.4aba1e8a.chunk.js": "/fakenewsgame/static/js/656.4aba1e8a.chunk.js",
     "static/js/964.aa264cfa.chunk.js": "/fakenewsgame/static/js/964.aa264cfa.chunk.js",
@@ -29,21 +29,21 @@
     "static/media/remixicon.woff2?t=1580819880586": "/fakenewsgame/static/media/remixicon.84901c6fa3ddba24ed16.woff2",
     "static/media/logo-dark.png": "/fakenewsgame/static/media/logo-dark.f5240afc6ee851482fc6.png",
     "static/media/logo-light.png": "/fakenewsgame/static/media/logo-light.f5240afc6ee851482fc6.png",
+    "static/media/avatar-3.jpg": "/fakenewsgame/static/media/avatar-3.6ba8a195b6a54a79b399.jpg",
+    "static/media/avatar-4.jpg": "/fakenewsgame/static/media/avatar-4.67d49a1969f7f85b52d1.jpg",
+    "static/media/avatar-8.jpg": "/fakenewsgame/static/media/avatar-8.597fbb16f3db9476b459.jpg",
+    "static/media/avatar-5.jpg": "/fakenewsgame/static/media/avatar-5.349ed6ef9b0d7c3293a3.jpg",
+    "static/media/avatar-7.jpg": "/fakenewsgame/static/media/avatar-7.695b266a92004b687f15.jpg",
     "static/media/蔡英文.jpeg": "/fakenewsgame/static/media/蔡英文.b50181a35dc66507c50a.jpeg",
+    "static/media/avatar-6.jpg": "/fakenewsgame/static/media/avatar-6.eac0fe0df4a31f7d5579.jpg",
+    "static/media/avatar-2.jpg": "/fakenewsgame/static/media/avatar-2.64c971b5fadf37a7411f.jpg",
     "static/media/axios.cjs": "/fakenewsgame/static/media/axios.5cdcf59e4b6a285aeb16.cjs",
     "static/media/avatar-1.jpg": "/fakenewsgame/static/media/avatar-1.3bbdb3cfa1daec3a8ff3.jpg",
-    "static/media/avatar-6.jpg": "/fakenewsgame/static/media/avatar-6.dc44eabff29dbd9780cb.jpg",
-    "static/media/avatar-3.jpg": "/fakenewsgame/static/media/avatar-3.2cfd5ba6f0dee8d1d076.jpg",
-    "static/media/avatar-4.jpg": "/fakenewsgame/static/media/avatar-4.b23e41d9c09997efbc21.jpg",
-    "static/media/avatar-7.jpg": "/fakenewsgame/static/media/avatar-7.5ba5195e48f4c2c3c3fa.jpg",
-    "static/media/avatar-8.jpg": "/fakenewsgame/static/media/avatar-8.ad5418a90c29c2b98640.jpg",
-    "static/media/avatar-5.jpg": "/fakenewsgame/static/media/avatar-5.a5c59cee7b3dfda1156d.jpg",
-    "static/media/avatar-2.jpg": "/fakenewsgame/static/media/avatar-2.feb0f89de58f0ef9b424.jpg",
     "index.html": "/fakenewsgame/index.html",
     "static/media/logo.svg": "/fakenewsgame/static/media/logo.32969377cfd14f4acfdd4d8257ba9930.svg"
   },
   "entrypoints": [
     "static/css/main.3ee8f15d.css",
-    "static/js/main.9a6f7f2a.js"
+    "static/js/main.556e059a.js"
   ]
 }
