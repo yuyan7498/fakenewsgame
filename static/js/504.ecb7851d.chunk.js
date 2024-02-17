@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchatvia=self.webpackChunkchatvia||[]).push([[504],{8504:(t,a,e)=>{e.r(a),e.d(a,{default:()=>r});var s=e(9584),n=e(7884);const r=function(t){return document.title=" Starter Page | Chatvia - Responsive Bootstrap 5 Admin Dashboard",(0,n.jsx)(s.Fragment,{})}}}]);
