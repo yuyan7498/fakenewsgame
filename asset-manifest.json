@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/fakenewsgame/static/css/main.52769674.css",
-    "main.js": "/fakenewsgame/static/js/main.a998be31.js",
+    "main.js": "/fakenewsgame/static/js/main.e913aba4.js",
     "static/css/425.be3d267a.chunk.css": "/fakenewsgame/static/css/425.be3d267a.chunk.css",
     "static/js/425.d5d499e4.chunk.js": "/fakenewsgame/static/js/425.d5d499e4.chunk.js",
     "static/js/504.3fbd6fdd.chunk.js": "/fakenewsgame/static/js/504.3fbd6fdd.chunk.js",
-    "static/js/100.3007d6b8.chunk.js": "/fakenewsgame/static/js/100.3007d6b8.chunk.js",
+    "static/js/100.6e56e660.chunk.js": "/fakenewsgame/static/js/100.6e56e660.chunk.js",
     "static/js/392.6aeef5d4.chunk.js": "/fakenewsgame/static/js/392.6aeef5d4.chunk.js",
     "static/js/992.d642874f.chunk.js": "/fakenewsgame/static/js/992.d642874f.chunk.js",
     "static/js/612.36632d2d.chunk.js": "/fakenewsgame/static/js/612.36632d2d.chunk.js",
@@ -71,6 +71,6 @@
   },
   "entrypoints": [
     "static/css/main.52769674.css",
-    "static/js/main.a998be31.js"
+    "static/js/main.e913aba4.js"
   ]
 }
