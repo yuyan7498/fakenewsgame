@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fakenewsgame/static/css/main.52769674.css",
-    "main.js": "/fakenewsgame/static/js/main.79b0bcdb.js",
+    "main.js": "/fakenewsgame/static/js/main.ab3df784.js",
     "static/css/425.be3d267a.chunk.css": "/fakenewsgame/static/css/425.be3d267a.chunk.css",
     "static/js/425.98191642.chunk.js": "/fakenewsgame/static/js/425.98191642.chunk.js",
     "static/js/504.3fbd6fdd.chunk.js": "/fakenewsgame/static/js/504.3fbd6fdd.chunk.js",
@@ -82,6 +82,6 @@
   },
   "entrypoints": [
     "static/css/main.52769674.css",
-    "static/js/main.79b0bcdb.js"
+    "static/js/main.ab3df784.js"
   ]
 }
