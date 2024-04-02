@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/fakenewsgame/static/css/main.52769674.css",
-    "main.js": "/fakenewsgame/static/js/main.ab3df784.js",
+    "main.js": "/fakenewsgame/static/js/main.8fbf42df.js",
     "static/css/425.be3d267a.chunk.css": "/fakenewsgame/static/css/425.be3d267a.chunk.css",
-    "static/js/425.98191642.chunk.js": "/fakenewsgame/static/js/425.98191642.chunk.js",
+    "static/js/425.5e468b70.chunk.js": "/fakenewsgame/static/js/425.5e468b70.chunk.js",
     "static/js/504.3fbd6fdd.chunk.js": "/fakenewsgame/static/js/504.3fbd6fdd.chunk.js",
     "static/js/100.5a51d372.chunk.js": "/fakenewsgame/static/js/100.5a51d372.chunk.js",
     "static/js/392.6aeef5d4.chunk.js": "/fakenewsgame/static/js/392.6aeef5d4.chunk.js",
@@ -28,14 +28,15 @@
     "static/media/唐山大地震.png": "/fakenewsgame/static/media/唐山大地震.4120dc7e9894417d8ccb.png",
     "static/media/疫苗.png": "/fakenewsgame/static/media/疫苗.8cc60ddd36e9be41c9b4.png",
     "static/media/remixicon.svg?t=1580819880586": "/fakenewsgame/static/media/remixicon.b1b2a94825a3e4b52765.svg",
-    "static/media/開票.png": "/fakenewsgame/static/media/開票.9d026f1775f99af902ba.png",
     "static/media/materialdesignicons-webfont.eot": "/fakenewsgame/static/media/materialdesignicons-webfont.21d6dd0b5b32336e7cff.eot",
     "static/media/materialdesignicons-webfont.ttf?v=5.0.45": "/fakenewsgame/static/media/materialdesignicons-webfont.f60b16c8d4cd35506d0b.ttf",
     "static/media/小賈斯汀 宣傳照.jpeg": "/fakenewsgame/static/media/小賈斯汀 宣傳照.01f9f84af673d018d5ba.jpeg",
     "static/media/賴清德.png": "/fakenewsgame/static/media/賴清德.91725b4245f514ce39d4.png",
     "static/media/苦瓜.png": "/fakenewsgame/static/media/苦瓜.2b0288feb259ba9bd714.png",
+    "static/media/開票.jpeg": "/fakenewsgame/static/media/開票.9aa4a0e0c24ef19c7378.jpeg",
     "static/media/tiktok.png": "/fakenewsgame/static/media/tiktok.8a35895568cbe62d81af.png",
     "static/media/q24.png": "/fakenewsgame/static/media/q24.41f7b104fa06686d0737.png",
+    "static/media/開票line截圖.jpeg": "/fakenewsgame/static/media/開票line截圖.7b49511ccb272b207f2c.jpeg",
     "static/media/materialdesignicons-webfont.woff?v=5.0.45": "/fakenewsgame/static/media/materialdesignicons-webfont.bd5c85afa91031c7cdca.woff",
     "static/media/17_2.png": "/fakenewsgame/static/media/17_2.cda399d80544e3d85037.png",
     "static/media/remixicon.eot?t=1580819880586": "/fakenewsgame/static/media/remixicon.ea0a4a94af1b5f50b1d0.eot",
@@ -44,7 +45,6 @@
     "static/media/韓國專輯銷量1.png": "/fakenewsgame/static/media/韓國專輯銷量1.cb1634b7804831e1c56a.png",
     "static/media/q24-2.png": "/fakenewsgame/static/media/q24-2.4a1d54bde6b90f412e4a.png",
     "static/media/materialdesignicons-webfont.woff2?v=5.0.45": "/fakenewsgame/static/media/materialdesignicons-webfont.eacc60984c4a668938dd.woff2",
-    "static/media/開票line截圖.png": "/fakenewsgame/static/media/開票line截圖.f788ab8ec5b6d7b94596.png",
     "static/media/q24-1.png": "/fakenewsgame/static/media/q24-1.350f587794341b042c1f.png",
     "static/media/13.png": "/fakenewsgame/static/media/13.a4ed36ebb458d2d92d87.png",
     "static/media/remixicon.woff?t=1580819880586": "/fakenewsgame/static/media/remixicon.d305405d497921ad44fa.woff",
@@ -82,6 +82,6 @@
   },
   "entrypoints": [
     "static/css/main.52769674.css",
-    "static/js/main.ab3df784.js"
+    "static/js/main.8fbf42df.js"
   ]
 }
